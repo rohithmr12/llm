@@ -1,0 +1,15 @@
+langchain
+openai==0.28.1
+chromadb
+pypdf
+tiktoken
+streamlit
+streamlit-extras
+unstructured[all-docs]
+openpyxl
+sentence_transformers
+python-dotenv
+rapidocr-onnxruntime
+huggingface_hub
+google-search-results
+wikipedia
